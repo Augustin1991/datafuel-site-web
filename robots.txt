@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://datafuel.org/sitemap.xml
