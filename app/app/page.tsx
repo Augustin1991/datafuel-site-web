@@ -1,8 +1,8 @@
 
-import {{ Navigation }} from "@/components/navigation"
-import {{ Footer }} from "@/components/footer"
+import { Navigation } from "@/components/navigation"
+import { Footer } from "@/components/footer"
 
-export default function Page() {{
+export default function Page() {
   return (
     <div className="min-h-screen bg-background">
       <Navigation />
